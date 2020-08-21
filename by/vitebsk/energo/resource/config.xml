@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE root>
+<root>
+    <PathFolderLog>Path folder for log file</PathFolderLog>
+    <ConnectionSender>connection string for first DB</ConnectionSender>
+    <ConnectionResipient>connection string for second DB</ConnectionResipient>
+    
+</root>
